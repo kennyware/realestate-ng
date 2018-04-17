@@ -1,0 +1,18 @@
+{
+  "name": "realestate-app",
+  "version": "1.0.0",
+  "description": "angular real estate app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KRW Designs",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
